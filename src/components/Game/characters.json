@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Beth",
+		"image": "/clicky-game/images/beth.png"
+	},
+	{
+		"id": 2,
+		"name": "Birdperson",
+		"image": "/clicky-game/images/birdperson.png"
+	},
+	{
+		"id": 3,
+		"name": "Evil Morty",
+		"image": "/clicky-game/images/evilmorty.png"
+	},
+	{
+		"id": 4,
+		"name": "Giant Head",
+		"image": "/clicky-game/images/gianthead.png"
+	},
+	{
+		"id": 5,
+		"name": "Goldenford",
+		"image": "/clicky-game/images/goldenford.png"
+	},
+	{
+		"id": 6,
+		"name": "Jerry",
+		"image": "/clicky-game/images/jerry.png"
+	},
+	{
+		"id": 7,
+		"name": "Jessica",
+		"image": "/clicky-game/images/jessica.png"
+	},
+	{
+		"id": 8,
+		"name": "Mr Meeseeks",
+		"image": "/clicky-game/images/meeseeks.png"
+	},
+	{
+		"id": 9,
+		"name": "Morty",
+		"image": "/clicky-game/images/morty.png"
+	},
+	{
+		"id": 10,
+		"name": "Mr Poopy Butthole",
+		"image": "/clicky-game/images/mr.png"
+	},
+	{
+		"id": 11,
+		"name": "Rick",
+		"image": "/clicky-game/images/rick.png"
+	},
+	{
+		"id": 12,
+		"name": "Summer",
+		"image": "/clicky-game/images/summer.png"
+	}
+]

@@ -1,0 +1,17 @@
+.jumbotron {
+    margin-top: 56px;
+}
+
+.jumbotron-img {
+    background-image: url("./darkness.png")
+}
+
+.jumbo-text {
+    color: #fff;
+}
+
+@media (min-width: 576px) {
+    .jumbotron {
+        padding: 6rem 2rem;
+    }
+}
